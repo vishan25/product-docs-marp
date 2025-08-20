@@ -1,0 +1,15 @@
+/* @theme my-custom-theme */
+
+section {
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+/* Custom style for a directive */
+.custom-box {
+    background-color: #333;
+    border: 2px solid #555;
+    padding: 20px;
+    border-radius: 8px;
+}
