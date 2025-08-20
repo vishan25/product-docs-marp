@@ -2,7 +2,7 @@
 theme: my-custom-theme
 paginate: true
 header: 'Product Documentation'
-footer: '23/3000971@ds.study.iitm.ac.in'
+footer: '23f3000971@ds.study.iitm.ac.in'
 ---
 
 # Marp Documentation Presentation
